@@ -1,0 +1,16 @@
+processor: 1
+processor vendor_id: GenuineIntel
+cpu family mode: 6
+model: 158
+model name stepping: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHZ
+cpu MHz: 3000
+cache size
+physical id:200siblings:2
+core id:3
+cpu cores:4
+apicid:
+initial apicid:
+bogomips
+clflush size : 64
+cache_alignment : 64
+address sizes : 39 bits physical, 48 bits virtual
