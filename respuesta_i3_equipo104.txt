@@ -14,3 +14,10 @@ git pull
 git add .
 git commit -m "interaccion gamma"
 git push
+
+G)
+git checkout RamaCordobaR
+git pull
+git add .
+git commit -m "interaccion alfa"
+git push
