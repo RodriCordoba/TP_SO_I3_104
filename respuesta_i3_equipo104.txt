@@ -1,0 +1,8 @@
+A) El main queda con el datos.txt proveniente de la rama de gamma y el beta.txt que proviene de la rama de beta.
+B) Si, los datos quedaron todos actualizados luego de hacer el merge.
+C) git checkout RamaGarciaM
+   git pull
+   git checkout main
+   git fetch https://github.com/RodriCordoba/TP_SO_I3_104.git
+   git merge RamaGarciaM
+   git push origin main
