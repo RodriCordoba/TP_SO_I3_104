@@ -6,3 +6,12 @@ C) git checkout RamaGarciaM
    git fetch https://github.com/RodriCordoba/TP_SO_I3_104.git
    git merge RamaGarciaM
    git push origin main
+
+
+D)Las ramas de beta y de gamma quedaron desactualizadas al realizar el mere y hacer comimos en el main.
+E) No sabíamos identificar si el merge estaba hecho o no en GitHub ni tampoco si deberían quedar las dos ramas y el main con esos datos o solo una rama que seria el main con los datos.
+F) git checkout RamaCordobaR
+git pull
+git add .
+git commit -m "interaccion gamma"
+git push
